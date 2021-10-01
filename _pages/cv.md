@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* 2020: PhD in Theoretical Computer Science, Directors: Miguel Couceiro and Romain Péchoux, LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications), Nancy. Title: On normal form systems to efficiently represent multivariate functions over finite sets. Defended december 2020. 
-* 2016: Master's in Cognitive Science, Natural Language Processing, UFR-MI, Université de Lorraine, Nancy, France
-* 2014: 2 year's degree in English, LLCER, Université de Lorraine, Nancy, France
-* 2012: Bachelor's in Mathematics, UFRSTMIA, Nancy, France
-* 2009: High school degree (Baccalauréat) S-SVT (biology), Lycée Raymond Poincaré, Bar-le-Duc, France
+* 2020: PhD in **Theoretical Computer Science**, Directors: Miguel Couceiro and Romain Péchoux, LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications), Nancy. Title: On normal form systems to efficiently represent multivariate functions over finite sets. Defended december 2020. 
+* 2016: Master's in **Cognitive Science, Natural Language Processing**, UFR-MI, Université de Lorraine, Nancy, France
+* 2014: 2 year's degree in **English**, LLCER, Université de Lorraine, Nancy, France
+* 2012: Bachelor's in **Mathematics**, UFRSTMIA, Nancy, France
+* 2009: High school degree (Baccalauréat) S-SVT (**Biology**), Lycée Raymond Poincaré, Bar-le-Duc, France
 
 
 Work experience
