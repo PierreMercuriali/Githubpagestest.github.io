@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020: PhD in Theoretical Computer Science, Directors: Miguel Couceiro and Romain Péchoux, LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications), Nancy. Title: On normal form systems to efficiently represent multivariate functions over finite sets. Defended december 2020. 
+* 2016: Master's in Cognitive Science, Natural Language Processing, UFR-MI, Université de Lorraine, Nancy, France
+* 2014: 2 year's degree in English, LLCER, Université de Lorraine, Nancy, France
+* 2012: Bachelor's in Mathematics, UFRSTMIA, Nancy, France
+* 2009: High school degree (Baccalauréat) S-SVT (biology), Lycée Raymond Poincaré, Bar-le-Duc, France
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2021: Postdoctoral researcher at TUDelft, Cognitive Robotics. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching 
+======
+* 2020 - 2021: Formal Logic (as part of RO47014: Knowledge Representation and Symbolic Reasoning course), TUDelft, Delft, the Netherlands
+* 2016 - 2018: C2i (Information and communications technology certificate), Université de Lorraine, Nancy, France
+* 2017 - 2018: Algorithms et Programming, Université de Lorraine, Nancy, France
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer skills
+  * LibreOffice, LaTeX
+* Programming
+  * Python (NLTK)
+* Digital painting 
+  * Krita
+
+Languages
+=====
+* French (native)
+* English (fluent + professional use)
+* Italian (intermediate)
+* Dutch, Ancient Greek, Latin, Polish (bases)
 
 Publications
 ======
@@ -54,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
